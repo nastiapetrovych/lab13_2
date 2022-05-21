@@ -8,9 +8,9 @@ Example of function call:
                                                        
                                                        tree = LinkedBST()
                                                        print(tree.demo_bst('empty.txt'))
-      
-
-**Results:**
+ 
+ 
+**Results:** => they are rounded to two decimals places  after dot
  
 Result of search in a list : 1.73 
 
